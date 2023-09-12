@@ -14,7 +14,7 @@ see `design-constraints.md`
 see `quality-attribute-scenarios.md`
 
 # 4 Solution Architecture
-TBD
+see `solution-architecture.md`
 
 # 5 Assumptions
 1. The system will not store user's data. Once user enters data, the taxes are calculated and shown.
@@ -30,4 +30,4 @@ task | time
 familiarization with requirements and process | 1h
 preparing use cases and design constraints | 2h
 quality attributes | 0.5h
-
+solution architecture | 3h
