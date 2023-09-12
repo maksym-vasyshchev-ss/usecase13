@@ -11,7 +11,7 @@ see `use-cases.md`
 see `design-constraints.md`
 
 ## 3.4 Quality Attribute Scenarios
-TBD
+see `quality-attribute-scenarios.md`
 
 # 4 Solution Architecture
 TBD
@@ -29,3 +29,5 @@ task | time
 --- | ---
 familiarization with requirements and process | 1h
 preparing use cases and design constraints | 2h
+quality attributes | 0.5h
+
